@@ -1,0 +1,19 @@
+{
+  "name": "sastantua",
+  "version": "1.0.0",
+  "description": "Un test 42 pour me remettre dans le bain d'un language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolbon/sastantua.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolbon/sastantua/issues"
+  },
+  "homepage": "https://github.com/tolbon/sastantua#readme"
+}
