@@ -242,3 +242,7 @@ console.log(nbChar(2, 1, 1, 3) + ' char(s)');
 console.log(nbChar(2, 2, 1, 3) + ' char(s)');
 console.log(nbChar(2, 3, 1, 3) + ' char(s)');
 console.log(nbChar(3, 0, 1, 3) + ' char(s)');
+
+
+
+//console.log(nbChar(3, 0, 1, 3) + ' char(s)');
